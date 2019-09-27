@@ -261,9 +261,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,react,macos,windows,webstorm,visualstudiocode
-monsters-rolodex/.gitignore
-monsters-rolodex/README.md
-monsters-rolodex/package.json
-monsters-rolodex/public/
-monsters-rolodex/src/
-monsters-rolodex/yarn.lock
